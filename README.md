@@ -1,2 +1,3 @@
 # hangman
- Hangman console application for c# | to download compiled version download folder named "compiled version"
+ A simple hangman console game/app written in c#
+ To download compiled version download "compiled version" :)
